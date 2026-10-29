@@ -1,0 +1,9 @@
+AstroLens obsahuje data z těchto zdrojů:
+
+- d3-celestial (Olaf Frohn), licence BSD-3-Clause: hvězdy, jména hvězd, souhvězdí, obrys Mléčné dráhy.
+  https://github.com/ofrohn/d3-celestial
+- OpenNGC (Mattia Verga), licence CC BY-SA 4.0: katalog mlhovin, galaxií a hvězdokup (NGC, IC, Messier).
+  https://github.com/mattiaverga/OpenNGC
+  Odvozená data v app/src/main/assets/dso.txt jsou šířena za stejných podmínek (CC BY-SA 4.0).
+
+Polohy planet: aproximativní keplerovské elementy JPL (Standish). Slunce a Měsíc: algoritmy Jeana Meeuse, Astronomical Algorithms.
